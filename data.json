@@ -1,0 +1,245 @@
+{
+    "Stores": [
+        {
+            "pic":"./img/starwars.jpg",
+            "title": "STARWARS",
+            "category":"tvshows",
+            "subcategory":"kids"
+        },
+        {
+            "pic":"./img/narcos.jpg",
+            "title": "NARCOS",
+            "category":"tvshows",
+            "subcategory":"kids"
+        },
+        {
+            "pic":"./img/13reasons.jpg",
+            "title": "13 REASONS WHY",
+            "category":"tvshows",
+            "subcategory":"popular"
+        },
+        {
+            "pic":"./img/got.jpg",
+            "title": "GAME OF THRONES",
+            "category":"tvshows",
+            "subcategory":"tvshows"
+        },
+        {
+            "pic":"./img/sabrina.jpg",
+            "title": "SABRINA",
+            "category":"tvshows",
+            "subcategory":"kids"
+        },
+        {
+            "pic":"./img/cobrakai.jpg",
+            "title": "COBRA KAI",
+            "category":"tvshows",
+            "subcategory":"kids"
+        },
+        {
+            "pic":"./img/empire.jpg",
+            "title": "THE EMPIRE",
+            "category":"tvshows",
+            "subcategory":"tvshows"
+        },
+        {
+            "pic":"./img/squidgame.jpg",
+            "title": "SQUID GAME",
+            "category":"trendingnow",
+            "subcategory":"kids"
+        },
+        {
+            "pic":"./img/money heist.jpg",
+            "title": "MONEY HEIST",
+            "category":"trendingnow",
+            "subcategory":"popular"
+        },
+        {
+            "pic":"./img/spiderman.jpg",
+            "title": "SPIDERMAN",
+            "category":"trendingnow",
+            "subcategory":"kids"
+        },
+        {
+            "pic":"./img/loki.jpg",
+            "title": "LOKI",
+            "category":"trendingnow",
+            "subcategory":"kids"
+        },
+        {
+            "pic":"./img/got.jpg",
+            "title": "GAME OF THRONES",
+            "category":"trendingnow",
+            "subcategory":"popular"
+        },
+        {
+            "pic":"./img/how to sell.jpg",
+            "title": "HOW TO SELL DRUGS ONLINE",
+            "category":"trendingnow",
+            "subcategory":"tvshows"
+        },
+        {
+            "pic":"./img/comicstaan.jpg",
+            "title": "COMICSTAAN",
+            "category":"trendingnow",
+            "subcategory":"popular"
+        },
+        {
+            "pic":"./img/friends.jpg",
+            "title": "FRIENDS",
+            "category":"trendingnow",
+            "subcategory":"tvshows"
+        },
+        {
+            "pic":"./img/dark night.jpg",
+            "title": "DARK NIGHT",
+            "category":"trendingnow",
+            "subcategory":"movies"
+        },
+
+        {
+            "pic":"./img/cobra.jpg",
+            "title": "COBRA",
+            "category":"movies",
+            "subcategory":"popular"
+        },
+        {
+            "pic":"./img/haunted.jpg",
+            "title": "HAUNTED",
+            "category":"movies",
+            "subcategory":"movies"
+        },
+        {
+            "pic":"./img/blackpanther.jpg",
+            "title": "BLACK PANTHER",
+            "category":"movies",
+            "subcategory":"movies"
+        },
+        {
+            "pic":"./img/ironman.jpg",
+            "title": "IRON MAN",
+            "category":"movies",
+            "subcategory":"movies"
+        },
+        {
+            "pic":"./img/spiderman.jpg",
+            "title": "SPIDERMAN",
+            "category":"movies",
+            "subcategory":"movies"
+        },
+        {
+            "pic":"./img/dark night.jpg",
+            "title": "DARK NIGHT",
+            "category":"movies",
+            "subcategory":"movies"
+        },
+        {
+            "pic":"./img/captain.jpg",
+            "title": "CAPTAIN AMERICA",
+            "category":"movies",
+            "subcategory":"movies"
+        },
+        {
+            "pic":"./img/money heist.jpg",
+            "title": "MONEY HEIST",
+            "category":"series",
+            "subcategory":"popular"
+        },
+        {
+            "pic":"./img/loki.jpg",
+            "title": "LOKI",
+            "category":"series",
+            "subcategory":"popular"
+        },
+        {
+            "pic":"./img/breaking bad.jpg",
+            "title": "BREAKING BAD",
+            "category":"series",
+            "subcategory":"tvshows"
+        },
+        {
+            "pic":"./img/peakyblinders.jpg",
+            "title": "PEAKY BLINDERS",
+            "category":"series",
+            "subcategory":"popular"
+        },
+        {
+            "pic":"./img/sherlock.jpg",
+            "title": "SHERLOCK HOMES",
+            "category":"series",
+            "subcategory":"movies"
+        },
+        {
+            "pic":"./img/squidgame.jpg",
+            "title": "SQUID GAME",
+            "category":"series",
+            "subcategory":"popular"
+        },
+        {
+            "pic":"./img/stranger things.jpg",
+            "title": "STRANGER THINGS",
+            "category":"series",
+            "subcategory":"kids"
+        },
+        {
+            "pic":"./img/how to sell.jpg",
+            "title": "HOW TO SELL DRUGS ONLINE",
+            "category":"series",
+            "subcategory":"kids"
+        },
+        {
+            "pic":"./img/office.jpg",
+            "title": "OFFICE",
+            "category":"series",
+            "subcategory":"poular"
+        },
+        {
+            "pic":"./img/boys.jpg",
+            "title": "THE BOYS",
+            "category":"comedy",
+            "subcategory":"popular"
+        },
+        {
+            "pic":"./img/comicstaan.jpg",
+            "title": "COMICSTAAN",
+            "category":"comedy",
+            "subcategory":"kids"
+        },
+        {
+            "pic":"./img/friends.jpg",
+            "title": "FRIENDS",
+            "category":"comedy",
+            "subcategory":"popular"
+        },
+        {
+            "pic":"./img/family.jpg",
+            "title": "FAMILY",
+            "category":"comedy",
+            "subcategory":"comedy"
+        },
+        {
+            "pic":"./img/lol.jpg",
+            "title": "LOL",
+            "category":"comedy",
+            "subcategory":"kids"
+        },
+        {
+            "pic":"./img/standup.jpg",
+            "title": "STAND UP ",
+            "category":"comedy",
+            "subcategory":"popular"
+        },
+        {
+            "pic":"./img/punch.jpg",
+            "title": "PUNCH",
+            "category":"comedy",
+            "subcategory":"kids"
+        },
+        {
+            "pic":"./img/family.jpg",
+            "title": "FAMILY",
+            "category":"comedy",
+            "subcategory":"popular"
+        }
+    ]
+}

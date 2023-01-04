@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <link href="reset.css" type="text/css" rel="stylesheet">
+    <link href="carousel.css" type="text/css" rel="stylesheet"> 
+    
+    <title>Streaming Site</title>
+</head>
+<body>
+    <div class="navbar">
+        <ul class="category">
+            <li id="nav" class="nav" onclick="selection()" >HOME</li>
+            <li id="nav4" class="nav" onclick="selection4()" >POPULAR</li>
+            <li id="nav2" class="nav" onclick="selection2()" >MOVIES</li>
+            <li id="nav3" class="nav" onclick="selection3()" >KIDS</li>
+            <li id="nav1" class="nav" onclick="selection1()">TV SHOWS</li>
+        </ul>
+        <div class="rhs-navbar">
+          <div>
+            <input type="text" class="search-box" placeholder="search">
+          </div>
+        </div>
+    </div>
+    <div class="topdisplay">
+      <div id="display1" class="display1">
+
+      </div>
+    </div>
+
+    <div class="carousel-container">
+      <div class="carousel" id="car">
+
+      </div>
+    </div>
+
+    <div class="display2" id="display2">
+      <div class="visual"  id="visual">
+        <div class="shows"   id="tvshows">
+          TV SHOWS
+          <div class="content" id="content">
+          </div>
+        </div> 
+        <div class="shows" id="trendingnow">
+          TRENDING NOW
+          <div class="content" id="content2">
+          </div>
+        </div> 
+        <div class="shows" id="movies">
+          MOVIES
+          <div class="content" id="content3">
+          </div>
+        </div> 
+        <div class="shows" id="series">
+          SERIES
+          <div class="content" id="content4">
+          </div>
+        </div>
+        <div class="shows" id="comedy">
+          COMEDY
+          <div class="content" id="content5">
+          </div>
+        </div>
+      </div>      
+    </div> 
+
+    <script src="script.js"></script>
+    <script src="one.js"></script> 
+</body>
+
+</html>

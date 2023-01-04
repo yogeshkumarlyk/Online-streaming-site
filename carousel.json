@@ -1,0 +1,19 @@
+{
+    "carousel": [
+        {
+            "pic":"./img/banner.jpg",
+            "title": "Money Heist",
+            "category":"banner"
+        },
+        {
+            "pic":"./img/banner2.jpg",
+            "title": "squid game",
+            "category":"banner"
+        },
+        {
+            "pic":"./img/banner3.jpg",
+            "title": "peaky blinders",
+            "category":"banner"
+        }
+    ]
+}

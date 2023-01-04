@@ -1,0 +1,150 @@
+
+body{
+    background-color: rgb(27, 11, 27);
+} 
+.navbar{
+    display: flex;
+    background-color: rgb(33, 4, 41);
+    position: fixed;
+    z-index: 5; 
+    left: 0;
+    top: 0%;
+    width: 100%;
+}
+.rhs-navbar{
+    width: 50%;
+}
+.search-box{
+    margin-left: 300px;
+    margin-top: 25px;
+    border: none;
+    border-bottom: 1px solid darkorange;
+    color: darkorange;
+    width: 250px;
+    background: transparent;
+    height: 30px;
+    font-weight: 500;
+    text-transform: capitalize;
+    transition: .5s;
+}
+.topdisplay{
+    margin-top: 100px;
+}
+.display1{
+    margin-top: 20px;
+    margin-left: 50px;
+
+}
+.display2{
+    padding: 20px;
+}
+.shows{
+    margin-top: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.category{
+    display: flex;
+    padding: 30px;
+    width: 50%;
+    color: darkorange;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*.nav{
+    padding-left: 20px;
+} */
+.category > li{
+    padding-right: 20px ;
+}
+.nav:hover{
+    cursor: pointer;
+}
+
+.pic{
+    height: 215px;
+    width: 215px;
+}
+.name{
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.show-data{
+    width: 100%;
+    object-fit: contain;
+    max-height: 270px;
+    margin-right: 10px;
+    transition: transform 450ms;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    /*border: 1px solid blueviolet;
+    padding: 10px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    float: left;
+    transition: transform 0.5s;
+    border-radius: 2%;
+    background-color: #fff; */
+}
+.show-data2{
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 50px;;
+    float: left;
+    object-fit: contain;
+    transition: transform 450ms;
+    border-radius: 2%;  
+}
+.content{
+    margin-top: 10px;
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 20px;
+}
+.show-data:hover{
+    transform: scale(1.04);
+}
+.show-data2:hover{
+    transform: scale(1.04);
+}
+.content::-webkit-scrollbar{
+    display: none;
+}
+.play{
+    text-decoration: none;
+    position: relative;
+    top: 5px;
+    left: 80px;
+    color: wheat;
+    padding: 4px 10px;
+    border: 1px solid wheat;
+    border-radius: 30px;
+}
+.play:hover{
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 450px) {
+  .navbar{
+    display: block;
+  }
+  .rhs-navbar{
+      width: 100%
+  }
+  .search-box{
+      margin-top: 5px;
+      margin-left: 60px;
+      margin-bottom: 10px;
+  }
+  .pic{
+    height: 140px;
+    width: 140px;
+  }
+  .play{
+      left: 50px;
+  }
+}
